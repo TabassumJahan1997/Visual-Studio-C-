@@ -1,0 +1,304 @@
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipmentStoreApp - CopyForDeleteTest\AirforceEquipmentStoreApp\obj\Debug\OrdnanceWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\AirforceEquipment(Aircraft)StoreApp\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordelete\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\FinalProjectAircraftStoreApp\fordeleteImage\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+G:\Project\AicraftEquipmentStoreSystem\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AicraftEquipmentStoreSystem - Copy\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\AircraftStoreApp(1269314)\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csprojAssemblyReference.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\MainWindow.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\App.g.cs
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp_MarkupCompile.lref
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe.config
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.exe
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\bin\Debug\AirforceEquipmentStoreApp.pdb
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\bin\Debug\Newtonsoft.Json.dll
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftListWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftUpdateWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftViewWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AircraftWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\MainWindow.baml
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.g.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.Properties.Resources.resources
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.GenerateResource.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CoreCompileInputs.cache
+F:\Tabassum\C#.Net\Microsoft C# Visual Studio\Project\1269314\AirforceEquipmentStoreApp\obj\Debug\AirforceEquipmentStoreApp.csproj.CopyComplete

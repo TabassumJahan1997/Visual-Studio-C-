@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Tabassum\\C#.Net\\Microsoft C# Visual Studio\\Project\\1269314\\AirforceEquipmentStoreApp\\AirforceEquipmentStoreApp.csproj": {}
+  },
+  "projects": {
+    "F:\\Tabassum\\C#.Net\\Microsoft C# Visual Studio\\Project\\1269314\\AirforceEquipmentStoreApp\\AirforceEquipmentStoreApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Tabassum\\C#.Net\\Microsoft C# Visual Studio\\Project\\1269314\\AirforceEquipmentStoreApp\\AirforceEquipmentStoreApp.csproj",
+        "projectName": "AirforceEquipmentStoreApp",
+        "projectPath": "F:\\Tabassum\\C#.Net\\Microsoft C# Visual Studio\\Project\\1269314\\AirforceEquipmentStoreApp\\AirforceEquipmentStoreApp.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "F:\\Tabassum\\C#.Net\\Microsoft C# Visual Studio\\Project\\1269314\\AirforceEquipmentStoreApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
